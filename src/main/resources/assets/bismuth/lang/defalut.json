@@ -1,0 +1,8 @@
+{
+  "buttons.bismuth.options": "Settings",
+  "buttons.bismuth.info": "Information",
+  "buttons.bismuth.reset_renderer": "Reset game renderer",
+  "buttons.bismuth.crash": "Crash",
+
+  "screens.bismuth.info": "Informations"
+}
